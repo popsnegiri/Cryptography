@@ -1,8 +1,5 @@
 package com.example.tasks;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-
 import java.io.PrintStream;
 import java.nio.charset.StandardCharsets;
 import java.security.SecureRandom;
@@ -27,8 +24,6 @@ public class Task1_Prediction
     /**
      * Способы получения предсказаания
      */
-    @Getter
-    @AllArgsConstructor
     private enum Modes
     {
         BASE,
