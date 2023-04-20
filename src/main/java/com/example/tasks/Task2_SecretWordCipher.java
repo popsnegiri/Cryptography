@@ -27,6 +27,7 @@ public class Task2_SecretWordCipher
 
         System.out.println("Введите секретное слово:");
         String text = in.nextLine();
+        in.close();
 
         try
         {
