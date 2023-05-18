@@ -10,3 +10,5 @@
 #### Неделя 4
 - [Шифрование на основе пароля](./src/main/java/com/example/tasks/Task4_PBE.java)
 - [Генерация ключей и создание цифровой подписи на основе ECC (Elliptic-curve cryptography)](./src/main/java/com/example/tasks/Task4_ECC.java)
+#### Неделя 5.
+- [Работа с keytool. Сохранение и чтение ключа из хранилища](./src/main/java/com/example/tasks/Task5_Keystore.java)
