@@ -9,4 +9,4 @@
 - [Ассиметричное шифрование слова с применением цифровой подписи](./src/main/java/com/example/tasks/Task3_Sign.java)
 #### Неделя 4
 - [Шифрование на основе пароля](./src/main/java/com/example/tasks/Task4_PBE.java)
-- [Генерация ключей и создание цифровой подписи на основе EC](./src/main/java/com/example/tasks/Task4_ECC.java)
+- [Генерация ключей и создание цифровой подписи на основе ECC (Elliptic-curve cryptography)](./src/main/java/com/example/tasks/Task4_ECC.java)
